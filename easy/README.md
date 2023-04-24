@@ -10,6 +10,6 @@
 
 4. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Решение](https://github.com/WolfMTK/tasks_leetcode/blob/main/easy/4.py)
 
-5. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&id=programming-skills)
+5. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&id=programming-skills) | [Решение](https://github.com/WolfMTK/tasks_leetcode/blob/main/easy/5.py)
 
-6. [Find the Difference](https://leetcode.com/problems/find-the-difference/description/?envType=study-plan-v2&id=programming-skills)
+6. [Find the Difference](https://leetcode.com/problems/find-the-difference/description/?envType=study-plan-v2&id=programming-skills) | [Решение](https://github.com/WolfMTK/tasks_leetcode/blob/main/easy/6.py)
