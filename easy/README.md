@@ -9,3 +9,7 @@
 3. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Решение](https://github.com/WolfMTK/tasks_leetcode/blob/main/easy/3.py)
 
 4. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Решение](https://github.com/WolfMTK/tasks_leetcode/blob/main/easy/4.py)
+
+5. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&id=programming-skills)
+
+6. [Find the Difference](https://leetcode.com/problems/find-the-difference/description/?envType=study-plan-v2&id=programming-skills)
