@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Cash VSCode
+# VS Code config
 /.vscode
+
+# PyCharm config
+/.idea
